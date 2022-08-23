@@ -1,4 +1,4 @@
-# MachineLearning: Exhibit Art (Shipping)
+# MachineLearning: Exhibition Art (Shipping)
 ## AIM: To predict the cost required to ship the sculptures to customers based on the information provided in the dataset.  
 
 **How will the company profit from this solution?**
