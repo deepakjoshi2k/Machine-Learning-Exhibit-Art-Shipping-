@@ -52,4 +52,13 @@ This Project is divided into 2 major segments :
     1.EDA 
     2.Machine Learning-Prediction
     
+  
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+1. I faced my first problem in Chi-squared_Test and I overcome it along the way and Now I know when to use it and how to use it.
+2. Next I Learnt the implementation of 'Anova Test' and understood the algorithm to find the answer.
+3. I also used new distribution plot for me which is QQ plot (for normality check) before I used to do with histograms.
+4.   
     
