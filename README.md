@@ -1,16 +1,20 @@
 <img src=https://img.shields.io/badge/Build%20with-Python-yellow> <img src="https://img.shields.io/badge/Using-Numpy-brightgreen"><img src="https://img.shields.io/badge/-Pandas-yellowgreen"> <img src="https://img.shields.io/badge/-Matplotlib-orange"><img src="https://img.shields.io/badge/-Seaborn-red"> <img src="https://img.shields.io/badge/-Sklearn-blue"><img src="https://img.shields.io/badge/-Scipy-darkblue"><img src="https://img.shields.io/badge/-Statsmodels-lightblue">  
 <img src=https://img.shields.io/badge/Domain-Machine%20Learning-yellow><img src="https://img.shields.io/badge/-EDA-orange">
 
-# MachineLearning: Exhibition Art (Shipping)
-## AIM: To predict the cost required to ship the sculptures to customers based on the information provided in the dataset. 
+# Exhibition Art - Shipping Cost Predictor
 
-**How will the company profit from this solution?**
+**AIM: To predict the cost required to ship the sculptures to customers based on the information provided in the dataset.**
 
-1. They can prioritize transports based on how reputated the artist is and how big the client is, because they don't want to mess with good paying clients.This will help company to increase their Retention Rate of customers.
-1. They can do batch transports of the sculptures which are intended to go at same nearby location which will make the delivery cost less.
-1. The company can't keep track which factor is making the cost vary more and try to improve in that area or reduce few unnecessary practice.
-1. The company can make profit and estimate the profit from this by asking the relevant amount from the client which makes the business grow in sustainable manner without over charging or facing any losses.  
-1. The company can also target the specific regions accordingly to demand (i.e Opening bigger warehouses in more demanding areas instead of random areas or near by multiple normal demanding areas) and many more.
+
+## How will the company profit from this solution?
+
+This project is profitable for the company as:
+
+1. They can prioritize transports based on how reputated the artist is and how big the client is, because they don't want to mess with good paying clients.This will help company to increase their **Retention Rate** of customers.
+1. They can do batch transports of the sculptures which are intended to go at same nearby location which will **Reduce Delivery cost**.
+1. The company can't keep track which factor is making the cost vary more and try to improve in that area or reduce few unnecessary practice according to data.
+1. The company can make profit and **estimate the profit** from this by asking the relevant amount from the client which creates **sustainable growth of business** without over charging or facing any losses.  
+1. The company can also **target the specific** regions accordingly to demand (i.e Opening bigger warehouses in more demanding areas instead of random areas or near by multiple normal demanding areas) and many more.
 
 
 
@@ -42,3 +46,10 @@
 | --- | --- |
 |Train Data  | 6500 x 20|  
 |Test Data   | 3500 x 19|
+
+This Project is divided into 2 major segments :
+
+    1.EDA 
+    2.Machine Learning-Prediction
+    
+    
