@@ -1,5 +1,8 @@
+<img src=https://img.shields.io/badge/Build%20with-Python-yellow> <img src="https://img.shields.io/badge/Using-Numpy-brightgreen"><img src="https://img.shields.io/badge/-Pandas-yellowgreen"> <img src="https://img.shields.io/badge/-Matplotlib-orange"><img src="https://img.shields.io/badge/-Seaborn-red"> <img src="https://img.shields.io/badge/-Sklearn-blue"><img src="https://img.shields.io/badge/-Scipy-darkblue"><img src="https://img.shields.io/badge/-Statsmodels-lightblue">  
+<img src=https://img.shields.io/badge/Domain-Machine%20Learning-yellow><img src="https://img.shields.io/badge/-EDA-orange">
+
 # MachineLearning: Exhibition Art (Shipping)
-## AIM: To predict the cost required to ship the sculptures to customers based on the information provided in the dataset.  
+## AIM: To predict the cost required to ship the sculptures to customers based on the information provided in the dataset. 
 
 **How will the company profit from this solution?**
 
