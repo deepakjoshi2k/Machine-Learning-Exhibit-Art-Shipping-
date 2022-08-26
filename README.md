@@ -1,4 +1,4 @@
-<img src=https://img.shields.io/badge/Build%20with-Python-yellow> <img src="https://img.shields.io/badge/Using-Numpy-brightgreen"><img src="https://img.shields.io/badge/-Pandas-yellowgreen"> <img src="https://img.shields.io/badge/-Matplotlib-orange"><img src="https://img.shields.io/badge/-Seaborn-red"> <img src="https://img.shields.io/badge/-Sklearn-blue"><img src="https://img.shields.io/badge/-Scipy-darkblue"><img src="https://img.shields.io/badge/-Statsmodels-lightblue">  
+<img src=https://img.shields.io/badge/Build%20with-Python-yellow> <img src="https://img.shields.io/badge/Using-Numpy-brightgreen"><img src="https://img.shields.io/badge/-Pandas-yellowgreen"> <img src="https://img.shields.io/badge/-Matplotlib-orange"><img src="https://img.shields.io/badge/-Seaborn-red"> <img src="https://img.shields.io/badge/-Sklearn-blue"><img src="https://img.shields.io/badge/-Scipy-darkblue"><img src="https://img.shields.io/badge/-Statsmodels-lightblue"><img src="https://img.shields.io/badge/-FeatureEngine-blue">  
 <img src=https://img.shields.io/badge/Domain-Machine%20Learning-yellow><img src="https://img.shields.io/badge/-EDA-orange">
 
 # Exhibition Art - Shipping Cost Predictor
@@ -60,5 +60,5 @@ What did you learn while building this project? What challenges did you face and
 1. I faced my first problem in Chi-squared_Test and I overcome it along the way and Now I know when to use it and how to use it.
 2. Next I Learnt the implementation of 'Anova Test' and understood the algorithm to find the answer.
 3. I also used new distribution plot for me which is QQ plot (for normality check) before I used to do with histograms.
-4.   
+4. Familiarized with new module - Feature Engine (Python library with multiple transformers to engineer and select features to use in ML models.)
     
