@@ -61,4 +61,12 @@ What did you learn while building this project? What challenges did you face and
 2. Next I Learnt the implementation of 'Anova Test' and understood the algorithm to find the answer.
 3. I also used new distribution plot for me which is QQ plot (for normality check) before I used to do with histograms.
 4. Familiarized with new module - Feature Engine (Python library with multiple transformers to engineer and select features to use in ML models.)
-    [https://feature-engine.readthedocs.io/en/latest/]
+    
+
+
+## References
+
+ - [Feature Engine Implementation YT](https://www.youtube.com/playlist?list=PL_7uaHXkQmKVlqlvgQJuaWEKjagHbERtp)
+ - [Feature Engine Docs](https://feature-engine.readthedocs.io/en/latest/)
+ 
+
