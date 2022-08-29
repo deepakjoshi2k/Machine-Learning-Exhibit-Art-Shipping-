@@ -2,6 +2,7 @@
 <img src=https://img.shields.io/badge/Domain-Machine%20Learning-yellow><img src="https://img.shields.io/badge/-EDA-orange">
 
 # [Exhibition Art - Shipping Cost Predictor](https://drive.google.com/uc?export=download&id=1NsJ2VGxQ8SAMCNVCiFGjYt-eZMRKsoBy)
+**Click the title to download interactive Project**
 
 **AIM: To predict the cost required to ship the sculptures to customers based on the information provided in the dataset.**
 
