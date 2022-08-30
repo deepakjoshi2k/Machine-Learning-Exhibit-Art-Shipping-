@@ -1,10 +1,11 @@
-<img src=https://img.shields.io/badge/Build%20with-Python-yellow> <img src="https://img.shields.io/badge/Using-Numpy-brightgreen"><img src="https://img.shields.io/badge/-Pandas-yellowgreen"> <img src="https://img.shields.io/badge/-Matplotlib-orange"><img src="https://img.shields.io/badge/-Seaborn-red"> <img src="https://img.shields.io/badge/-Sklearn-blue"><img src="https://img.shields.io/badge/-Scipy-darkblue"><img src="https://img.shields.io/badge/-Statsmodels-lightblue"><img src="https://img.shields.io/badge/-FeatureEngine-blue">  
-<img src=https://img.shields.io/badge/Domain-Machine%20Learning-yellow><img src="https://img.shields.io/badge/-EDA-orange">
+<img src="https://img.shields.io/badge/Build%20with-Python-important?style=for-the-badge"> <br><img src="https://img.shields.io/badge/Using-Numpy-brightgreen?style=for-the-badge"><img src="https://img.shields.io/badge/-Pandas-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Matplotlib-pink?style=for-the-badge"><img src="https://img.shields.io/badge/-Seaborn-red?style=for-the-badge"><img src="https://img.shields.io/badge/-Sweeviz-violet?style=for-the-badge"> <img src="https://img.shields.io/badge/-Sklearn-blue?style=for-the-badge"><img src="https://img.shields.io/badge/-Scipy-darkblue?style=for-the-badge"><img src="https://img.shields.io/badge/-Statsmodels-lightblue?style=for-the-badge"><img src="https://img.shields.io/badge/-FeatureEngine-blue?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Domain-Machine%20Learning-purple?style=for-the-badge"><img src="https://img.shields.io/badge/-EDA-magenta?style=for-the-badge">
+
 
 # [Exhibition Art - Shipping Cost Predictor](https://drive.google.com/uc?export=download&id=1NsJ2VGxQ8SAMCNVCiFGjYt-eZMRKsoBy)
-**Click the title to download interactive Project**
+***Click the Title <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/index-pointing-up_261d-fe0f.png" height=40> to download interactive Project(Open it in your system)***
 
-**AIM: To predict the cost required to ship the sculptures to customers based on the information provided in the dataset.**
+## **AIM: To predict the cost required to ship the sculptures to customers based on the information provided in the dataset.**
 
 
 ## How will the company profit from this solution?
