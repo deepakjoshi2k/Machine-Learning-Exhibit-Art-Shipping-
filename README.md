@@ -7,6 +7,7 @@
 
 ## **AIM: To predict the cost required to ship the sculptures to customers based on the information provided in the dataset.**
 
+![Poster of Project](https://img.freepik.com/premium-vector/online-parcel-delivery-service-concept-successful-online-payment-parcel-delivery-via-mobile-application-truck-with-boxes-courier-with-order-box-flat-vector-illustration_608021-1372.jpg?w=1800)
 
 ## How will the company profit from this solution?
 
